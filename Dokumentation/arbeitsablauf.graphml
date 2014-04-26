@@ -15,13 +15,12 @@
   <graph edgedefault="directed" id="G">
     <data key="d7"/>
     <node id="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="BevelNode">
           <y:Geometry height="91.0" width="409.66666666666663" x="-31.0" y="495.0"/>
-          <y:Fill color="#FF99CC" transparent="false"/>
+          <y:Fill color="#FF9999" color2="#FF9999" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="202.83333333333326" y="43.5">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="202.83333333333331" y="43.5">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -43,7 +42,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="101.0" x="53.5" y="45.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="48.5" y="13.0">
             <y:LabelModel>
@@ -67,7 +66,7 @@
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNodeWithShadow">
           <y:Geometry height="40.0" width="101.0" x="189.5" y="70.0"/>
-          <y:Fill color="#FF9900" transparent="false"/>
+          <y:Fill color="#FF6600" color2="#FF6600" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="18.0">
             <y:LabelModel>
@@ -91,7 +90,7 @@
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNodeWithShadow">
           <y:Geometry height="40.0" width="101.0" x="609.5" y="205.0"/>
-          <y:Fill color="#FF9900" transparent="false"/>
+          <y:Fill color="#FF6600" color2="#FF6600" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="18.0">
             <y:LabelModel>
@@ -115,7 +114,7 @@
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNodeWithShadow">
           <y:Geometry height="40.0" width="101.0" x="404.0" y="340.0"/>
-          <y:Fill color="#FF9900" transparent="false"/>
+          <y:Fill color="#FF6600" color2="#FF6600" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="18.0">
             <y:LabelModel>
@@ -139,7 +138,7 @@
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNodeWithShadow">
           <y:Geometry height="40.0" width="101.0" x="39.5" y="340.0"/>
-          <y:Fill color="#FF9900" transparent="false"/>
+          <y:Fill color="#FF6600" color2="#FF6600" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="18.0">
             <y:LabelModel>
@@ -163,7 +162,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode">
           <y:Geometry height="46.0" width="101.0" x="189.5" y="10.0"/>
-          <y:Fill color="#3366FF" transparent="false"/>
+          <y:Fill color="#3366FF" color2="#3366FF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="21.0">
             <y:LabelModel>
@@ -187,7 +186,7 @@
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNodeWithShadow">
           <y:Geometry height="40.0" width="101.0" x="489.5" y="70.0"/>
-          <y:Fill color="#FF9900" transparent="false"/>
+          <y:Fill color="#FF6600" color2="#FF6600" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="18.0">
             <y:LabelModel>
@@ -211,7 +210,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode">
           <y:Geometry height="46.0" width="101.0" x="489.5" y="10.0"/>
-          <y:Fill color="#3366FF" transparent="false"/>
+          <y:Fill color="#3366FF" color2="#3366FF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="21.0">
             <y:LabelModel>
@@ -235,7 +234,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode">
           <y:Geometry height="40.0" width="89.0" x="722.5" y="205.0"/>
-          <y:Fill color="#3366FF" transparent="false"/>
+          <y:Fill color="#3366FF" color2="#3366FF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="42.5" y="18.0">
             <y:LabelModel>
@@ -259,7 +258,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode">
           <y:Geometry height="40.0" width="101.0" x="404.0" y="400.0"/>
-          <y:Fill color="#3366FF" transparent="false"/>
+          <y:Fill color="#3366FF" color2="#3366FF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="18.0">
             <y:LabelModel>
@@ -283,7 +282,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="101.0" x="339.5" y="45.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="48.5" y="13.0">
             <y:LabelModel>
@@ -307,7 +306,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="101.0" x="669.5" y="123.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="48.5" y="13.0">
             <y:LabelModel>
@@ -331,7 +330,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="221.0" x="549.5" y="375.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="108.5" y="13.0">
             <y:LabelModel>
@@ -355,7 +354,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="152.0" x="196.25" y="375.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="74.0" y="13.0">
             <y:LabelModel>
@@ -379,7 +378,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="101.0" x="-31.0" y="195.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="48.5" y="13.0">
             <y:LabelModel>
@@ -403,7 +402,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="101.0" x="172.5" y="210.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="48.5" y="13.0">
             <y:LabelModel>
@@ -427,7 +426,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="113.0" x="333.5" y="165.0"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="54.5" y="13.0">
             <y:LabelModel>
@@ -451,7 +450,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode">
           <y:Geometry height="46.0" width="132.0" x="-24.666666666666742" y="532.75"/>
-          <y:Fill color="#3366FF" transparent="false"/>
+          <y:Fill color="#3366FF" color2="#3366FF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="64.0" y="21.0">
             <y:LabelModel>
@@ -475,7 +474,7 @@
       <data key="d6">
         <y:GenericNode configuration="ShinyPlateNodeWithShadow">
           <y:Geometry height="40.0" width="101.0" x="129.45833333333326" y="535.75"/>
-          <y:Fill color="#FF9900" transparent="false"/>
+          <y:Fill color="#FF6600" color2="#FF6600" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="18.0">
             <y:LabelModel>
@@ -499,7 +498,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode">
           <y:Geometry height="40.0" width="101.0" x="39.5" y="400.0"/>
-          <y:Fill color="#3366FF" transparent="false"/>
+          <y:Fill color="#3366FF" color2="#3366FF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="48.5" y="18.0">
             <y:LabelModel>
@@ -523,7 +522,7 @@
       <data key="d6">
         <y:GenericNode configuration="BevelNode2">
           <y:Geometry height="30.0" width="113.0" x="252.58333333333326" y="540.75"/>
-          <y:Fill color="#339966" transparent="false"/>
+          <y:Fill color="#339966" color2="#339966" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#FFFFFF" visible="true" width="4.0" x="54.5" y="13.0">
             <y:LabelModel>
@@ -544,7 +543,6 @@
       </data>
     </node>
     <edge id="e0" source="n2" target="n7">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -555,7 +553,6 @@
       </data>
     </edge>
     <edge id="e1" source="n7" target="n3">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -568,7 +565,6 @@
       </data>
     </edge>
     <edge id="e2" source="n3" target="n4">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -581,7 +577,6 @@
       </data>
     </edge>
     <edge id="e3" source="n4" target="n5">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -592,7 +587,6 @@
       </data>
     </edge>
     <edge id="e4" source="n5" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -605,7 +599,6 @@
       </data>
     </edge>
     <edge id="e5" source="n2" target="n5">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -616,7 +609,6 @@
       </data>
     </edge>
     <edge id="e6" source="n3" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -627,7 +619,6 @@
       </data>
     </edge>
     <edge id="e7" source="n4" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
